@@ -1,0 +1,11 @@
+• DES is a symmetric-key block cipher.
+• Use Feistel Cipher structure
+• Adopted by the National Institute of Standards and Technology (NIST)
+in 1977.
+• Replaced by Advanced Encryption Standard (AES).
+• Input : 64 bits
+• Output : 64 bits
+• Main key : 64 bits
+• Subkey : 56 bits
+• Round key : 48 bits
+• No. of rounds : 16 rounds

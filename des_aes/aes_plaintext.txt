@@ -1,0 +1,8 @@
+• AES stands for Advanced Encryption Standard
+• Rijndael cipher was selected as the AES in Oct-2000
+• Designed by Vincent Rijmen and Joan Daemen in Belgium
+• Symmetric Bock cipher
+• Adapted by National Institute of Standards and Technology in 2001
+• Widely used due to its simplicity and increased security
+• Convert 128-bit plaintext to 128-bit ciphertext
+• Resistant against Brute-force and Statistical attacks
