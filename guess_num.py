@@ -3,7 +3,6 @@ import random
 l = random.sample(range(10), 4)
 n=int((''.join([str(x) for x in l])))
 num=str(n)
-print(num)
 
 chance = 0
 
